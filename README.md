@@ -33,10 +33,6 @@ If you'd like to contribute to the Recipe Project by adding new recipes or impro
 4. Test your changes thoroughly.
 5. Submit a pull request with a clear description of your changes.
 
-## Feedback
-
-We welcome any feedback or suggestions you may have regarding the Recipe Project. If you encounter any issues or have ideas for improvement, please don't hesitate to [contact us](mailto:kunalsharma0422@gmail.com).
-
 ## Limitations
 
 1. **Limited Recipe Database:** The current version of the Recipe Project has a limited number of recipes available. 
